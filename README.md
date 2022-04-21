@@ -1,4 +1,4 @@
-``` c#
+``` pascal
 say "Hello, world!\n". // usual string whose print something to console 
 
 true >> say "test is complite\n"?  // usual if construction
